@@ -1,6 +1,6 @@
 #include <NewPing.h>
 
-// line 337 in Studuino.cpp has to be commented out, or else there will occur a "Tone.cpp" error
+// line 337 in Studuino.cpp has to be commented out, or else there will occure a "Tone.cpp" error
 #include "Studuino.h" 
 
 NewPing sonarR(10, 11, 5800); // right ultrasonic sensor
